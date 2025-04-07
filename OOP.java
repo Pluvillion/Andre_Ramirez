@@ -145,5 +145,6 @@ public class OOP {
         current.withdraw(2500);
         current.withdraw(500);
         current.displayAccountDetails();
+        
     }
 }
